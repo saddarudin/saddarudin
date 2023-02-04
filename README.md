@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm saddar U Din</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.insider.com%2F60144316a7c0c4001991dde6%3Fwidth%3D1000%26format%3Djpeg%26auto%3Dwebp&imgrefurl=https%3A%2F%2Fwww.businessinsider.com%2Fguides%2Ftech%2Fwhat-is-coding&tbnid=2HF9kLKgTLRa9M&vet=12ahUKEwjz4t_-pvv8AhUScKQEHR_-ArwQMygpegUIARDFAg..i&docid=8z6xtoK-TwWOMM&w=1000&h=750&q=coding%20images&ved=2ahUKEwjz4t_-pvv8AhUScKQEHR_-ArwQMygpegUIARDFAg">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/108076528/216754945-8d4c433f-b0fa-41f6-a185-ca27de830e08.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddarudin&label=Profile%20views&color=0e75b6&style=flat" alt="saddarudin" /> </p>
 
