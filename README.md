@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm saddar U Din</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<img align="right" alt="coding width="400" src="![image](https://user-images.githubusercontent.com/108076528/216754289-35a1ef28-54cc-4ba5-803c-5655681b25b4.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddarudin&label=Profile%20views&color=0e75b6&style=flat" alt="saddarudin" /> </p>
 
