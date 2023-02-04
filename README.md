@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm saddar U Din</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img  src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)" alt="coding">
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>        
+<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddarudin&label=Profile%20views&color=0e75b6&style=flat" alt="saddarudin" /> </p>
 
