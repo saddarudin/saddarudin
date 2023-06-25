@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm saddar U Din</h1>
+<h1 align="center">Hi 👋, I'm Saddar U Din</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>        
 <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="coding">
 
