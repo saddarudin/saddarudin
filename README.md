@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saddar U Din</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>        
-<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="coding">
+<h1 align="center">Hi 👋, I'm Saddar U Din Babar</h1>
+<h3 align="center">Software Engineer'25 || Computer Vision</h3>        
+<img src="https://github.com/saddarudin/saddarudin/blob/main/linkedin%20background%20image.png" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddarudin&label=Profile%20views&color=0e75b6&style=flat" alt="saddarudin" /> </p>
 
