@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Saddar U Din Babar</h1>
-<h3 align="center">Software Engineer'25 || Computer Vision</h3>        
+<h3 align="center">AI Agent & Automation Engineer || Generative AI</h3>        
 <img src="https://github.com/saddarudin/saddarudin/blob/main/linkedin%20background%20image.png" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddarudin&label=Profile%20views&color=0e75b6&style=flat" alt="saddarudin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saddarudin" alt="saddarudin" /></a> </p>
 
-- 🌱 I’m currently learning: **DS|| ML || DL || AI || Specializing in OpenCV**
+- 🌱 I’m currently learning: **Generative AI | Agentic AI| AI Automation**
 
-- 💬 Ask me about: **Data Science | Python**
+- 💬 Ask me about: **DS| ML| DL | AI| Agentic AI**
 
 - 📫 How to reach me: **saddarbabar@gmail.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/saddarudin/](https://www.linkedin.com/in/saddarudin/)
 
-- ⚡ Fun fact: **Songs || Chess || Cricket**
+- ⚡ Fun fact: **Chess | Songs | Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
