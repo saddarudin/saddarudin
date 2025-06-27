@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saddar U Din Babar</h1>
 <h3 align="center">AI Agent & Automation Engineer || Generative AI</h3>        
-<img src="https://github.com/saddarudin/saddarudin/blob/main/linkedin%20background%20image.png" alt="coding">
+<img src="https://github.com/saddarudin/saddarudin/blob/main/LInkedIn%20Background.png" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddarudin&label=Profile%20views&color=0e75b6&style=flat" alt="saddarudin" /> </p>
 
